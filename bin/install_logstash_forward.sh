@@ -1,4 +1,4 @@
-#!/bin/evn bash
+#!/usr/bin/env bash
 #2014-11-06
 
 cp /etc/apt/sources.list /etc/apt/sources.list.date '+%y%m%d%H%M'
